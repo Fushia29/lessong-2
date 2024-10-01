@@ -1,8 +1,6 @@
-Favfruit = ["apple""mango""banana""paloklok"]
+favfruit = ["apple", "mango", "banana", "paloklok"]
 fruit = "paloklok"
-
-for data in fruit
-    print(data)
-     if data == "mango"
-     print ("happy eating")
-
+for data in favfruit:
+     print(data)
+     if data == fruit:
+            
